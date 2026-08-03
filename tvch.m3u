@@ -3,12 +3,6 @@
 
 #EXTINF:-1,Viasat Kino COMEDY
 http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
-#EXTINF:-1,TV1000
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV1000 ACTION HD
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Hollywood 
-https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Amedia 1
 http://hls127.freeott.top:8080/Amedia_1/video.m3u8
 #EXTINF:-1,amedia1
