@@ -28,14 +28,8 @@ http://portal.ott.pink/C4UK_MuUkraineHD/index.m3u8?token=B0B73593320445A22451378
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1,CPS Fresh UA HD
 http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
-#EXTINF:-1,ACTION HD
-https://stitch-ua6.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9obHMxNi5zd2VldC50di9zdHJlYW0vMmVqaDUzaXJ3a3RuMmQ5ZXlkZXg4N25nc3pncTViY2I3NjM2cDc0NW1nZmFhcHV2dGlhM3Y3MmVuandxZ3ZrNGZyZ2dna3JoMjg5eWRwdTd0OGt0Z3BrdnIzNW05YXlhNDI0cm5lOHBnNDh2NGhiOWRiejNzYmRzanJpcjV4enM2cndmN2QyOGNqNGNrc3B3aDRqbjJnNnZ1Z2JiN3E2M3Z3bWRpOHFlYXVteG5jOWRzcmVyN2Z3Z2ZqODg1N2ZubjlwZnNtdzY=&u=9322418184231680962&session=1706138128222245475&variant=0&c=3170&dt=&p=1&e=0&aid=&sp=0
-#EXTINF:-1,ПЕС
-https://stitch-ua7.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9obHMyMC5zd2VldC50di9zdHJlYW0vamt2Z200YzUzczNwNmpmYzJ3M2F2dmNuNHJheWczejhjbmtweTZ2bnF4czl0NmVqODc3emJtcHJiaWN3dDNiNDY0dzN4bnNmcjc3M3A0enN6a2dhbXk3a3hnNng5YWVzeWhiaHhhaDV5M2V5bWR1Z3RhNWp1dTRydW5rejRkZXZ0YjVpajh0cjdreGZtYWE2Ynl0aThrNTlhamlyZWtkcDk1dXVqdTMyeTZ3YXoyZTNoNThra3pxbmtrN3c2c3ZnejVucXhmMjQ=&u=9322418184231680962&session=11950480907859176298&variant=2&c=1979&dt=&p=1&e=0&aid=&sp=0
 #EXTINF:-1,Viasat Kino COMEDY
 http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
-#EXTINF:-1,TV1000
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV1000 ACTION HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Hollywood 
