@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,🛠Ревизия №-1 🚦02.08.2026|08-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1,ПЕРШИЙ HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
